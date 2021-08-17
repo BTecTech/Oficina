@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/img/logo-mercedes.png": "68d6b251c04e9aa118e9bd0d879cf67b",
-"assets/NOTICES": "a0b160c017fc93d3676cf1efc4578adb",
+"assets/NOTICES": "c2ecf4fbcdbf985816074218baf92dd1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
@@ -15,9 +15,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d65561028431e6742588cfdd999c1acd",
-"/": "d65561028431e6742588cfdd999c1acd",
-"main.dart.js": "cc77bd079b7e26adeb13adbc24801e14",
+"index.html": "82925ed65e0775f8fade74eb4393fc04",
+"/": "82925ed65e0775f8fade74eb4393fc04",
+"main.dart.js": "ce54d9759839a0f297b56aa710c8f2e4",
 "manifest.json": "fff2ef184f49641a7eac800684db61ba",
 "version.json": "204100852a2b6486e7575b245123fefc"
 };
